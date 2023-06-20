@@ -1,6 +1,8 @@
 # Mercor-ML-Task
+ ```
  A Python-based tool that, when given a GitHub user's URL, returns the most technically complex and challenging repository from that user's profile
-Light weight version of this project -> [GitHub Automated Analysis Tool](https://github.com/AbhishekRP2002/Github-Automated-Analysis-Tool)
+```
+>Light weight version of this project -> [GitHub Automated Analysis Tool](https://github.com/AbhishekRP2002/Github-Automated-Analysis-Tool)
 
 ## Getting Started
 
